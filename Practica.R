@@ -1,5 +1,5 @@
 # 1 Define una variable llamada numero con el valor 10 y otra llamada nombre con tu nombre.
-numero <- 10
+numero <- 8
 nombre <- "Jesús Isidre Escudero Cuesta"
 
 # 2 Utiliza las funciones class e is.numeric para determinar el tipo de dato de numero.
